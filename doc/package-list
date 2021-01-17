@@ -1,0 +1,9 @@
+com.css.cloudkitchen
+com.css.cloudkitchen.common.result
+com.css.cloudkitchen.config
+com.css.cloudkitchen.constants
+com.css.cloudkitchen.controller
+com.css.cloudkitchen.entity
+com.css.cloudkitchen.entity.shelf
+com.css.cloudkitchen.entity.shelf.Impl
+com.css.cloudkitchen.service
